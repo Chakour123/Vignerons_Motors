@@ -1,19 +1,27 @@
-# Projet Vignerons Motors
+# Salone - Free Bootstrap 5 Business Template 
 
-Site d'annonces de 2 roues. C'est un site qui permet aux utilisateurs de vendre et d'acheter des engins.
+- [Demo](https://themewagon.github.io/Electro-Bootstrap/)
 
-## Fonctionnalités
-- Inscription
-- Connexion
-- CRUD annonces
-- Recherche et filtre
-- Système de messagerie
-- Favoris
-- Annonces populaires
-- Interface utilisateur responsive
+#### Download
 
-## Technologies utilisées
-HTML, CSS, PHP, JAVASCRIPT, AJAX
+- [Download from ThemeWagon](https://themewagon.com/themes/electro-bootstrap/)
 
-## Auteur
-Chakour Mounirou-deen
+## Getting Started
+
+Clone Repository
+
+```
+https://github.com/themewagon/Electro-Bootstrap.git
+```
+
+## Author
+
+```
+Salone is developed by Team HTML Codex.
+```
+
+## License
+
+- Design and Code is Copyright &copy; [HTML Codex](https://htmlcodex.com/).
+- Licensed cover under [MIT]
+- Distributed by [ThemeWagon](https://themewagon.com)
